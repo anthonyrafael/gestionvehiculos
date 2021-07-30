@@ -1,6 +1,9 @@
-Se requiere la última versión de Java instalada en el equipo y además el JDK.
+Se requiere la última versión de Java instalada en el equipo y además el JDK (14.0.2).
 
 Java: https://www.java.com/es/download/ie_manual.jsp
 JDK: https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
+
+El archivo a importar debe estar en el siguiente formato:
+MÓVIL#MARCA#TIPO#REPUESTO#NUM COMPRA#MES#VALOR#GRUPO#OBSERVACIÓN#PARTES (1 AL 8)
 
 - Rafael Núñez
